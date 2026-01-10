@@ -1,4 +1,4 @@
-edad;genero;altura;peso k;presion arter;presion arterial dis;colesterol;glucosa;fumar;alcohol;actividad fisica
+edad;genero;altura;peso k;presion ar sis;presion ar dia;colesterol;glucosa;fumar;alcohol;actividad fisica
 18393;2;168;62;110;80;1;1;0;0;1
 20228;1;156;85;140;90;3;1;0;0;1
 18857;1;165;64;130;70;3;1;0;0;0
@@ -2123,4 +2123,5 @@ edad;genero;altura;peso k;presion arter;presion arterial dis;colesterol;glucosa;
 18817;2;176;81;120;80;1;1;1;0;0
 23426;2;163;90;140;100;3;2;0;1;0
 21780;1;149;70;120;80;1;1;0;0;1
+
 
