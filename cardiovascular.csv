@@ -1,4 +1,4 @@
-No.;id;genero;altura;peso kgr;ap_hi;ap_lo;colesterol;glucosa;fumar;alcohol;actividad fisica;cardio
+No.;id;genero;estatura;peso kgr;ap_hi;ap_lo;colesterol;glucosa;fumar;alcohol;actividad fisica;cardio
 0;18393;2;168;62;110;80;1;1;0;0;1;0
 1;20228;1;156;85;140;90;3;1;0;0;1;1
 2;18857;1;165;64;130;70;3;1;0;0;0;1
@@ -2123,3 +2123,4 @@ No.;id;genero;altura;peso kgr;ap_hi;ap_lo;colesterol;glucosa;fumar;alcohol;activ
 2998;18817;2;176;81;120;80;1;1;1;0;0;0
 2999;23426;2;163;90;140;100;3;2;0;1;0;1
 3000;21780;1;149;70;120;80;1;1;0;0;1;1
+
