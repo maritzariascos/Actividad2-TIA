@@ -1,4 +1,4 @@
-edad,genero,nivel_educacion,nivel_ingresos,fumador,años_fumar,cigarrillo_dia,paquetes_año,tabaquismo_pasivo,indice_contaminacion,exposicion_ocupacional,exposicion_radon,antecedentes_familiares_cancer,EPOC,asma,historia_tuberculosis,tos_cronica,dolor_pecho,dificultas_respirar,fatiga,IMC,saturacion_oxigeno,fev1_x10,nivel_crp,radiografia_anormal,horas_ejercicio_semana,calidad_dieta,unidades_alcohol_semana,acceso_atencion_medica,riesgo_cancer_pulmon
+edad,genero,nivel_educacion,nivel_ingresos,fumador,años_fumar,cigarrillo_dia,paquetes_año,tabaquismo_pasivo,indice_contaminacion,exposicion_ocupacional,exposicion_radon,antecedentes_familiares_cancer,EPOC,asma,historia_tuberculosis,tos_cronica,dolor_pecho,dificultad_respirar,fatiga,IMC,saturacion_oxigeno,fev1_x10,nivel_crp,radiografia_anormal,horas_ejercicio_semana,calidad_dieta,unidades_alcohol_semana,acceso_atencion_medica,riesgo_cancer_pulmon
 60,1,20,2,1,16,15,12,0,71,0,1,0,0,0,0,1,1,1,0,20,94,29,6,1,5,4,13,3,1
 53,0,12,4,0,0,0,0,1,66,0,0,1,0,0,0,0,1,0,0,25,96,35,4,0,5,2,0,3,0
 62,1,15,3,1,9,29,13,1,69,0,0,0,0,1,0,0,0,1,1,23,95,29,9,1,1,4,2,1,1
