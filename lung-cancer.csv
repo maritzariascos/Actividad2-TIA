@@ -1,4 +1,4 @@
-edad,genero,fumador,años_fumar,cigarrillo_dia,tabaquismo_pasivo,indice_contaminacion,antecedentes_familiares_cancer,copd,asma,tuberculosis,tos_cronica,dolor_pecho,dificultad_respirar,fatigue,saturacion_oxigeno,fev1_x10,radiografia_anormal,acceso_atencion_medica,riesgo_cancer_pulmon
+edad,genero,fumador,años_fumar,cigarrillo_dia,tabaquismo_pasivo,indice_contaminacion,antecedentes_familiares_cancer,EPOC,asma,tuberculosis,tos_cronica,dolor_pecho,dificultad_respirar,fatigue,saturacion_oxigeno,fev1_x10,radiografia_anormal,acceso_atencion_medica,riesgo_cancer_pulmon
 60,Mujer,Si,16,15,No,71,No,No,No,No,Si,Si,Si,No,94,29,Si,moderado,Si
 53,Hombre,No,0,0,Si,66,Si,No,No,No,No,Si,No,No,96,35,No,moderado,No
 62,Mujer,Si,9,29,Si,69,No,No,Si,No,No,No,Si,Si,95,29,Si,muy limitado,Si
@@ -4999,3 +4999,4 @@ edad,genero,fumador,años_fumar,cigarrillo_dia,tabaquismo_pasivo,indice_contamin
 90,Hombre,Si,10,6,Si,87,No,No,No,No,No,No,No,No,97,32,No,muy limitado,No
 64,Hombre,Si,28,15,No,70,No,Si,No,No,Si,No,No,Si,90,22,Si,basico,Si
 44,Mujer,No,0,0,No,76,No,No,No,No,No,No,No,No,99,37,No,moderado,No
+
